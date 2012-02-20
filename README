@@ -1,1 +1,3 @@
-LinearAlgebraGauss solves systems of equations
+LinearAlgebraGauss: solve systems of equations
+
+connectfour: play a Connect Four game against a simple AI player
